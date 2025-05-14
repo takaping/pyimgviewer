@@ -7,6 +7,11 @@
 * Python 3.12.7
 * requirements.txtを参照
 
+[OpenCVのライセンス](https://opencv.org/license/)
+
+[PySideのライセンス](https://doc.qt.io/qtforpython-6/licenses.html)
+
+
 ## ソースファイル
 | ファイル名 | 概要 |
 |----------|------|
